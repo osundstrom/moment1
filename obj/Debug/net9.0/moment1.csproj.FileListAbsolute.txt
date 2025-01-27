@@ -19,7 +19,6 @@ C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\scopedcss\bundle\moment1.styles.c
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\scopedcss\projectbundle\moment1.bundle.scp.css
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\4wfn18b1hh-b9sayid5wm.gz
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\rpsv1359sl-61n19gt1b8.gz
-C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\taoqetf2xp-xtxxf3hu2r.gz
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\ov9866jrqp-bqjiyaj88i.gz
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\r0k9i2e7bu-c2jlpeoesf.gz
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\arshbi08w8-erw9l3u2r3.gz
@@ -95,3 +94,5 @@ C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\moment1.genruntimeconfig.cache
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\ref\moment1.dll
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\5ti3dqwju2-6wh0ryevqt.gz
 C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\1quiz01upm-6wh0ryevqt.gz
+C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\moment1.sourcelink.json
+C:\Users\Admin\dt191g\moment1\obj\Debug\net9.0\compressed\taoqetf2xp-qhgig6tnvv.gz

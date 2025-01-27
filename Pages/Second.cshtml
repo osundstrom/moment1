@@ -2,4 +2,47 @@
 @model MyApp.Namespace.SecondModel
 @{
     ViewData["Title"] = "Razor";
-}
+
+    List<string> kurser = new List<string> {
+        "DT057G, Webbutveckling I",
+        "DT068G, Webbanvändbarhet",
+        "DT084G, Intruduktion till JavaScript",
+        "DT200G, Grafisk teknik för webb",
+        "DT071G, Programmering i C#.NET",
+        "IK060G, Projektledning",
+        "DT003G, Databaser",
+        };
+
+    DateTime currentDate = DateTime.Now;
+    Console.WriteLine(currentDate);
+
+    DayOfWeek fridayDay = currentDate.DayOfWeek;
+    Console.WriteLine(fridayDay);
+    
+
+}   
+
+<section>
+     <h1>@ViewData["Title"]</h1>
+     <div>
+     <h3>Information</h3>
+     <p> <b>Datum/klockslag</b> @currentDate</p>
+     @if(fridayDay == DayOfWeek.Friday) {
+        <p>Idag är det fredag!</p> 
+        } else {
+        <p>Idag är det <b>inte</b> fredag!</p> 
+        }
+
+     
+    </div>
+
+    <div>
+        <h3>Kurser jag läst</h3>
+        <ul>
+        @foreach(string kurs in kurser) {
+            <li>@kurs</li>
+        }
+        </ul>
+    </div>
+     
+</section>
