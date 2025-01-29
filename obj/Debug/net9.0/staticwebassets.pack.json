@@ -2,11 +2,19 @@
   "Files": [
     {
       "Id": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\moment1.rjcly0d3yu.bundle.scp.css"
+      "PackagePath": "staticwebassets\\moment1.v0r17ejiqt.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\css\\second.css",
+      "PackagePath": "staticwebassets\\css\\second.css"
     },
     {
       "Id": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\favico.png",
+      "PackagePath": "staticwebassets\\favico.png"
     },
     {
       "Id": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\favicon.ico",
