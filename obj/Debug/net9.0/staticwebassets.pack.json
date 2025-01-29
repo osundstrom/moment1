@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\moment1.6wh0ryevqt.bundle.scp.css"
+      "PackagePath": "staticwebassets\\moment1.rjcly0d3yu.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\css\\site.css",
@@ -255,6 +255,10 @@
     {
       "Id": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\logoExample.png",
+      "PackagePath": "staticwebassets\\logoExample.png"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.moment1.props",

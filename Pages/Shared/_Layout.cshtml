@@ -8,17 +8,22 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/moment1.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/second.css" asp-append-version="true" />
+    <link rel="icon" type="image/png" href="favico.png">
 </head>
 <body>
 
      <!-- Header-->
     <header>
        <img src="/logoExample.png" alt="logo">
-    </header>
 
+        <p class="dateHead" >Dagens Datum är: <u id="dateToday"> </u> </p>
+
+    </header>
+    <div class="divNavAndMain">
      <!-- Sidnav-->
     <div>
-     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white box-shadow mb-3">
                     <ul class="nav flex-column">
                          <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Start</a>
@@ -37,14 +42,14 @@
 
 
          <!-- Main-->
-    <div class="container">
+    <div class="container" id="mainContent">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
+</div>
      <!-- Footer-->
-    <footer class="border-top footer text-muted">
+    <footer class="footer text-muted">
         <div class="container">
            Av Oskar Sundström - Kontakta mig via e-post:- <a href="mailto:ossu2300@student.miun.se">ossu2300@student.miun.se</a>
         </div>

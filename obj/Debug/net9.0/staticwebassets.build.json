@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ApEgPU8y58HdDW/Zo6uRs8hbe38zfHJvWFabLZn3TBg=",
+  "Hash": "LyAd8l9iYwgsTolGdjbRtYmDvyB9vwhhKKaHLkJsEZ0=",
   "Source": "moment1",
   "BasePath": "_content/moment1",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-6wh0ryevqt.gz",
+      "Identity": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-rjcly0d3yu.gz",
       "SourceId": "moment1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/moment1",
-      "RelativePath": "moment1#[.{fingerprint=6wh0ryevqt}]!.bundle.scp.css.gz",
+      "RelativePath": "moment1#[.{fingerprint=rjcly0d3yu}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9nznld7uux",
-      "Integrity": "y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=",
+      "Fingerprint": "i9slnj9tgz",
+      "Integrity": "VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1.bundle.scp.css"
@@ -269,12 +269,12 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-6wh0ryevqt.gz",
+      "Identity": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-rjcly0d3yu.gz",
       "SourceId": "moment1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/moment1",
-      "RelativePath": "moment1#[.{fingerprint=6wh0ryevqt}]?.styles.css.gz",
+      "RelativePath": "moment1#[.{fingerprint=rjcly0d3yu}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -283,8 +283,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\moment1.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9nznld7uux",
-      "Integrity": "y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=",
+      "Fingerprint": "i9slnj9tgz",
+      "Integrity": "VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\moment1.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "6wh0ryevqt",
-      "Integrity": "akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=",
+      "Fingerprint": "rjcly0d3yu",
+      "Integrity": "Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\moment1.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "6wh0ryevqt",
-      "Integrity": "akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=",
+      "Fingerprint": "rjcly0d3yu",
+      "Integrity": "Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1.bundle.scp.css"
@@ -2724,6 +2724,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\logoExample.png",
+      "SourceId": "moment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\",
+      "BasePath": "_content/moment1",
+      "RelativePath": "logoExample#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a1o44utw2b",
+      "Integrity": "UiG88Gjaxzu8j5a6COsgtM4XNETvPMfP9xOmf2ursWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logoExample.png"
     }
   ],
   "Endpoints": [
@@ -21286,13 +21307,95 @@
       ]
     },
     {
-      "Route": "moment1.6wh0ryevqt.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-6wh0ryevqt.gz",
+      "Route": "logoExample.a1o44utw2b.png",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\logoExample.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UiG88Gjaxzu8j5a6COsgtM4XNETvPMfP9xOmf2ursWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a1o44utw2b"
+        },
+        {
+          "Name": "label",
+          "Value": "logoExample.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UiG88Gjaxzu8j5a6COsgtM4XNETvPMfP9xOmf2ursWE="
+        }
+      ]
+    },
+    {
+      "Route": "logoExample.png",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\wwwroot\\logoExample.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UiG88Gjaxzu8j5a6COsgtM4XNETvPMfP9xOmf2ursWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UiG88Gjaxzu8j5a6COsgtM4XNETvPMfP9xOmf2ursWE="
+        }
+      ]
+    },
+    {
+      "Route": "moment1.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-rjcly0d3yu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002358490566"
+          "Quality": "0.011627906977"
         }
       ],
       "ResponseHeaders": [
@@ -21302,19 +21405,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423"
+          "Value": "85"
         },
         {
           "Name": "ETag",
-          "Value": "\"y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=\""
+          "Value": "\"VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -21330,26 +21433,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=\""
+          "Value": "W/\"Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "6wh0ryevqt"
-        },
-        {
-          "Name": "label",
-          "Value": "moment1.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY="
+          "Value": "sha256-Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8="
         }
       ]
     },
     {
-      "Route": "moment1.6wh0ryevqt.bundle.scp.css",
+      "Route": "moment1.bundle.scp.css",
       "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21359,7 +21454,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "933"
+          "Value": "65"
         },
         {
           "Name": "Content-Type",
@@ -21367,11 +21462,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=\""
+          "Value": "\"Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8="
+        }
+      ]
+    },
+    {
+      "Route": "moment1.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-rjcly0d3yu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw="
+        }
+      ]
+    },
+    {
+      "Route": "moment1.rjcly0d3yu.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-rjcly0d3yu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011627906977"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rjcly0d3yu"
+        },
+        {
+          "Name": "label",
+          "Value": "moment1.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8="
+        }
+      ]
+    },
+    {
+      "Route": "moment1.rjcly0d3yu.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21381,7 +21621,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6wh0ryevqt"
+          "Value": "rjcly0d3yu"
         },
         {
           "Name": "label",
@@ -21389,13 +21629,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY="
+          "Value": "sha256-Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8="
         }
       ]
     },
     {
-      "Route": "moment1.6wh0ryevqt.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-6wh0ryevqt.gz",
+      "Route": "moment1.rjcly0d3yu.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-rjcly0d3yu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21404,7 +21644,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423"
+          "Value": "85"
         },
         {
           "Name": "Content-Type",
@@ -21412,11 +21652,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=\""
+          "Value": "\"VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21434,7 +21674,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6wh0ryevqt"
+          "Value": "rjcly0d3yu"
         },
         {
           "Name": "label",
@@ -21442,18 +21682,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI="
+          "Value": "sha256-VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw="
         }
       ]
     },
     {
-      "Route": "moment1.6wh0ryevqt.styles.css",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-6wh0ryevqt.gz",
+      "Route": "moment1.rjcly0d3yu.styles.css",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-rjcly0d3yu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002358490566"
+          "Quality": "0.011627906977"
         }
       ],
       "ResponseHeaders": [
@@ -21463,15 +21703,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423"
+          "Value": "85"
         },
         {
           "Name": "ETag",
-          "Value": "\"y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=\""
+          "Value": "\"VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21491,13 +21731,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=\""
+          "Value": "W/\"Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6wh0ryevqt"
+          "Value": "rjcly0d3yu"
         },
         {
           "Name": "label",
@@ -21505,12 +21745,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY="
+          "Value": "sha256-Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8="
         }
       ]
     },
     {
-      "Route": "moment1.6wh0ryevqt.styles.css",
+      "Route": "moment1.rjcly0d3yu.styles.css",
       "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\moment1.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21520,7 +21760,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "933"
+          "Value": "65"
         },
         {
           "Name": "Content-Type",
@@ -21528,11 +21768,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=\""
+          "Value": "\"Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21542,7 +21782,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6wh0ryevqt"
+          "Value": "rjcly0d3yu"
         },
         {
           "Name": "label",
@@ -21550,13 +21790,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY="
+          "Value": "sha256-Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8="
         }
       ]
     },
     {
-      "Route": "moment1.6wh0ryevqt.styles.css.gz",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-6wh0ryevqt.gz",
+      "Route": "moment1.rjcly0d3yu.styles.css.gz",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-rjcly0d3yu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21565,7 +21805,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423"
+          "Value": "85"
         },
         {
           "Name": "Content-Type",
@@ -21573,11 +21813,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=\""
+          "Value": "\"VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21595,7 +21835,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6wh0ryevqt"
+          "Value": "rjcly0d3yu"
         },
         {
           "Name": "label",
@@ -21603,155 +21843,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI="
-        }
-      ]
-    },
-    {
-      "Route": "moment1.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-6wh0ryevqt.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002358490566"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "423"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY="
-        }
-      ]
-    },
-    {
-      "Route": "moment1.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\moment1.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "933"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY="
-        }
-      ]
-    },
-    {
-      "Route": "moment1.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\1quiz01upm-6wh0ryevqt.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "423"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI="
+          "Value": "sha256-VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw="
         }
       ]
     },
     {
       "Route": "moment1.styles.css",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-6wh0ryevqt.gz",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-rjcly0d3yu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002358490566"
+          "Quality": "0.011627906977"
         }
       ],
       "ResponseHeaders": [
@@ -21761,15 +21864,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423"
+          "Value": "85"
         },
         {
           "Name": "ETag",
-          "Value": "\"y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=\""
+          "Value": "\"VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21789,13 +21892,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=\""
+          "Value": "W/\"Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY="
+          "Value": "sha256-Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8="
         }
       ]
     },
@@ -21810,7 +21913,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "933"
+          "Value": "65"
         },
         {
           "Name": "Content-Type",
@@ -21818,11 +21921,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY=\""
+          "Value": "\"Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21832,13 +21935,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-akL3HYRBzwfnGOV4oOjG8cQy2IR58UREJrxa85OBKNY="
+          "Value": "sha256-Odvg8xLIZoOLmuGfL5KBY8n1+f0gJF19Q1nIxiV4DJ8="
         }
       ]
     },
     {
       "Route": "moment1.styles.css.gz",
-      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-6wh0ryevqt.gz",
+      "AssetFile": "C:\\Users\\Admin\\dt191g\\moment1\\obj\\Debug\\net9.0\\compressed\\5ti3dqwju2-rjcly0d3yu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21847,7 +21950,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423"
+          "Value": "85"
         },
         {
           "Name": "Content-Type",
@@ -21855,11 +21958,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI=\""
+          "Value": "\"VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 21:54:21 GMT"
+          "Value": "Mon, 27 Jan 2025 23:05:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21877,7 +21980,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y3KDqKhe7cjS87NokWC07Zzoxi5zF8cg1cXB2y4NoyI="
+          "Value": "sha256-VvWnv6NSWZo72XM8u/nG45VqjsHo5JYwQKH55NUAIhw="
         }
       ]
     }
