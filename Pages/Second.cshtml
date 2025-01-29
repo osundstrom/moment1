@@ -3,6 +3,7 @@
 @{
     ViewData["Title"] = "Razor";
 
+    //skapar en lista med kurser
     List<string> kurser = new List<string> {
         "DT057G, Webbutveckling I",
         "DT068G, Webbanvändbarhet",
@@ -13,9 +14,11 @@
         "DT003G, Databaser",
         };
 
+    //skapar nytt datum
     DateTime currentDate = DateTime.Now;
     Console.WriteLine(currentDate);
 
+    //kollar vad för dag det är
     DayOfWeek fridayDay = currentDate.DayOfWeek;
     Console.WriteLine(fridayDay);
     
@@ -28,6 +31,8 @@
      <h2>@ViewData["Title"]</h2>
      <div>
      <h5>Information</h5>
+
+      <!-- Skriver ut Om det är fredag eller inte baserat på om fridayDay är lika med fredag eller inte.-->
      <p> <b>Datum/klockslag</b> @currentDate</p>
      @if(fridayDay == DayOfWeek.Friday) {
         <p>Idag är det fredag!</p> 
@@ -38,6 +43,7 @@
      
     </div>
 
+    <!-- Skriver ut alla Kurser text-muted en foreach-->
     <div>
         <h3>Kurser jag läst</h3>
         <ul>
